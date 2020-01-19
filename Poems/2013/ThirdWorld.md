@@ -1,14 +1,17 @@
 # Third World
 
 > Last date: 24 April 2013
-##### [Published here](http://vk.com/zimnurov_mf)
-##### [Link to published document](https://vk.com/wall-52918906_3)
-___
 
-# Chords : 
+##### [Published here](http://vk.com/zimnurov_mf)
+
+##### [Link to published document](https://vk.com/wall-52918906_3)
+
+---
+
+# Chords :
 
     Em, Am, F, Dm
-    
+
 # Text :
 
 ```
