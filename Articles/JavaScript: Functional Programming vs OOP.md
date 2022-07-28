@@ -1,4 +1,4 @@
-# Career growth for software engineers: becoming a leader
+# JavaScript: Functional Programming vs OOP
 
 > Date: 26 April 2022
 ##### [Published here](https://anywhere.epam.com)
