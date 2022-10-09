@@ -2,7 +2,7 @@
 
 > Date: January 2019
 ##### [Published here](http://www.colloquium-journal.org/ru/)
-##### [Link to published document](http://www.colloquium-journal.org/wp-content/uploads/2019/01/Colloquium-journal-125-chast-5.pdf)
+##### [Link to published document](https://colloquium-journal.org/wp-content/uploads/2022/05/Colloquium-journal-2019-25-5.pdf)
 &nbsp;
 ___
 
