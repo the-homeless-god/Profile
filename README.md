@@ -22,7 +22,7 @@ Azure, .NET/.NET Core framework, EF/EF Core, MS SQL, and other data source provi
 - Primary email - zimtir@mail.ru
 - Telegram - @the_homeless_god
 - [Facebook](https://www.facebook.com/profile.php?id=100006956115543)
-- [GitHub](https://github.com/Zimtir)
+- [GitHub](https://github.com/the-homeless-god)
 - [Instagram](https://www.instagram.com/the_homeless_god)
 - [LinkedIn](https://www.linkedin.com/in/marat-z/)
 - [Twitter](https://twitter.com/THG_Marat_Z)
