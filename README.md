@@ -29,3 +29,6 @@ Azure, .NET/.NET Core framework, EF/EF Core, MS SQL, and other data source provi
 - [VK](https://vk.com/the_homeless_god)
 - [YouTube](https://www.youtube.com/channel/UCJ-P1V1_OdLH6_iWejitm5g?view_as=subscriber)
 
+# Useful links
+
+- Wish list - https://docs.google.com/spreadsheets/d/1pu3IpAoxWy30q7mU5JWEd41p_xU3pA-6898IV_ahHlU/edit?usp=sharing
