@@ -1,4 +1,4 @@
-#### Wiki: [Пелевин](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87), [Пространство Фридмана](https://ru.wikipedia.org/wiki/Generation_%C2%AB%D0%9F%C2%BB)
+#### Wiki: [Пелевин](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%BD,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87), [Generation П](https://ru.wikipedia.org/wiki/Generation_%C2%AB%D0%9F%C2%BB)
 
 - _Почему стоит читать_: Интересный сюжет и проблемы рекламы в Отечестве
 
